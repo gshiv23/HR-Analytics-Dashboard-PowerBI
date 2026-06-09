@@ -261,7 +261,7 @@ LinkedIn:
 [linkedin.com/in/shivgandhi3002](https://www.linkedin.com/in/shivgandhi3002)
 
 GitHub:
-github.com/gshiv23
+[github.com/gshiv23](https://github.com/gshiv23)
 
 ---
 
