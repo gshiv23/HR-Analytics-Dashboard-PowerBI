@@ -258,7 +258,7 @@ Aspiring Data Analyst
 ### Connect With Me
 
 LinkedIn:
-linkedin.com/in/shivgandhi3002
+[linkedin.com/in/shivgandhi3002](https://www.linkedin.com/in/shivgandhi3002)
 
 GitHub:
 github.com/gshiv23
